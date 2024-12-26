@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="932ba495-0731-474a-b92a-d3d791592332" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/yourCompanyName/projectName/navigation/DuckDuckGoHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/yourCompanyName/projectName/navigation/NavigateTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/yourCompanyName/projectName/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/yourCompanyName/projectName/runners/CucumberTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/yourCompanyName/projectName/search/LookForInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/yourCompanyName/projectName/search/SearchArticle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/yourCompanyName/projectName/search/SearchForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/yourCompanyName/projectName/stepdefinitions/LoginDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/yourCompanyName/projectName/stepdefinitions/ParameterDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/yourCompanyName/projectName/stepdefinitions/SearchStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/yourCompanyName/projectName/tasks/LoginTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/yourCompanyName/projectName/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/search_by_keyword.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/junit-platform.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/logback-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2qiD4s1TMG5a9xZaxzBbKjSOcw1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/FrameworkAutomation/ScreenPlay/src/test/java/com/yourCompanyName/projectName",
+    "onboarding.tips.debug.path": "G:/FrameworkAutomation/ScreenPlay/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\FrameworkAutomation\ScreenPlay\src\test\java\com\yourCompanyName\projectName" />
+      <recent name="G:\FrameworkAutomation\ScreenPlay\src\test\resources" />
+      <recent name="G:\FrameworkAutomation\ScreenPlay\src\test\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\FrameworkAutomation\ScreenPlay" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="932ba495-0731-474a-b92a-d3d791592332" name="Changes" comment="" />
+      <created>1735136316023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735136316023</updated>
+    </task>
+    <servers />
+  </component>
+</project>

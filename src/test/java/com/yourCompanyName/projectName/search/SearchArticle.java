@@ -1,4 +1,4 @@
-package starter.search;
+package com.yourCompanyName.projectName.search;
 
 import net.serenitybdd.screenplay.targets.Target;
 
